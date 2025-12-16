@@ -25,4 +25,14 @@
   
 # Extra
 - Es importante que sepa que este proyecto se adapto para que trabaje en colaboración de **Google colab** (extrencion de google colab y vs Code) y si usten no quiere usar **Google colab** y trabajar en su propia maquina puede que necesite configurar el modo en que se leen los dataset y el modo donde se guarden los resultados (los .csv) para poder extraerlos de su propia maquina o donde este trabajando.
+
+# Tip 
+- En la Red neuronal tiene comentada un pedazo de código que yo lo uso como bander para que en ciertas epocas si no evoluciona el error favorablemente este se detenga y continue con el siguiente. Tu como usuario tendras que usarlo o no de acuerdo a como veas que el error evoluciona y así crear una eficiencia en la red neuronal y solo las mejores convinaciones se entrenen con las TODAS las epocas.
  
+# Imagenes del los datos 
+
+## Gráfica de error vs epoca 
+![Gráfica](images_entrenamiento/Grafica.png)
+
+## Metrica del entrenamiento
+![Metrica](images_entrenamiento/Metrica.png)
