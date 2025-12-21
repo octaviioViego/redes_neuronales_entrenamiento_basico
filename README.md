@@ -13,9 +13,9 @@
 - Nombre de la materia: Redes neuronales.
 
 # Modo de uso
-- para podes usar el proyecto, solo debe configurar la celda de "main" la celda llamada "El top" y la celda llamada "Replicamos la operacion unitaria".
+- Para podes usar el proyecto, solo debe configurar la celda de "main" la celda llamada "El top" y la celda llamada "Replicamos la operacion unitaria".
 - Para la celda llamada "main" solo debemos de cambiar la variable "nombre_dataset" por el nombre del dataset que queramos entrenar, recuerde que hay solo 3 opciones: cancer, iris y wine.
-- para la celda llamada "El top" el cual tiene solo dos opciones el "mejor" y "peor" con ello puede ver el top de la opcion que ingreso.
+- Para la celda llamada "El top" el cual tiene solo dos opciones el "mejor" y "peor" con ello puede ver el top de la opcion que ingreso.
 - Para la celda llamada "Replicamos la operacion unitaria" en esta podemos replicar el top ya sea mejor o peor de nuestros entrenamientos, las variables son las primeras variables que aparecen en la celda.
 
 # Como bajarlo 
