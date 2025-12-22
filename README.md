@@ -7,7 +7,13 @@
 # Arquitectura
 - 1 capa oculpa con salida binaria.
 
-# Datos extra 
+#  Tecnologías utilizadas
+- Python
+- NumPy (cómputo numérico)
+- Pandas (manejo y análisis de datos)
+- Matplotlib (visualización de resultados)
+
+# Contexto académico 
 - Nombre del estudiante: Fernando Octavio Arroyo Velasco.
 - Nombre del maestro: Sabino Miranda Jimenez.
 - Nombre de la materia: Redes neuronales.
